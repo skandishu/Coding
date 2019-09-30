@@ -25,8 +25,8 @@ for i in range(X[1]):
         A=N[Q[1]-1:Q[2]]
         e=binary_conversion(A)
         if e%2==0:
-            print('EVEN'+str(e))
+            print('EVEN')
         else:
-            print('ODD'+str(e))
+            print('ODD')
         
         
